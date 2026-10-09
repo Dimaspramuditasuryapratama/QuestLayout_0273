@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pertemuan4</string>
+    <string name= "prodi">Teknologi Informasi</string>
+    <string name= "univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name= "nama">Dimas Pramudita Surya Pratama</string>
+    <string name= "alamat">Kebumen, Jawa Tengah</string>
+    <string name= "copy">Copyright, 2026</string>
 </resources>
